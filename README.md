@@ -87,6 +87,7 @@ Buat simulasi berikut:
 4. Compile program dengan perintah:
    
 **##Jalankan program dengan perintah:**
+
 5. java MainRestoran
 
 
