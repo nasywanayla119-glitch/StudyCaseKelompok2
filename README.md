@@ -85,8 +85,11 @@ Buat simulasi berikut:
 2. Masukkan semua file Java sesuai nama dan package-nya.
 3. Buka terminal/command prompt di folder `restoran`.
 4. Compile program dengan perintah:
+   
 
 **##Jalankan program dengan perintah:**
 java MainRestoran
+
+
 <img width="190" height="388" alt="image" src="https://github.com/user-attachments/assets/b99274c7-576a-49bb-b6f0-faa1744232f1" />
 
