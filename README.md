@@ -85,6 +85,7 @@ Buat simulasi berikut:
 2. Masukkan semua file Java sesuai nama dan package-nya.
 3. Buka terminal/command prompt di folder `restoran`.
 4. Compile program dengan perintah:
+   
 **##Jalankan program dengan perintah:**
 5. java MainRestoran
 
