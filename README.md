@@ -86,9 +86,6 @@ Buat simulasi berikut:
 3. Buka terminal/command prompt di folder `restoran`.
 4. Compile program dengan perintah:
 
-```bash
-javac -d . menu/*.java pelanggan/*.java MainRestoran.java
-
 **##Jalankan program dengan perintah:**
 java MainRestoran
 <img width="190" height="388" alt="image" src="https://github.com/user-attachments/assets/b99274c7-576a-49bb-b6f0-faa1744232f1" />
